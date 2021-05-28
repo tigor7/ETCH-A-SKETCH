@@ -22,3 +22,10 @@ h1 {
 .cell:hover{
     background: #000;
 }
+button {
+    display: flex;
+    margin: 20px auto;
+    padding: 10px 20px;
+    
+    border-radius: 0;
+}
